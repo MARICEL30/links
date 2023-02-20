@@ -21,9 +21,6 @@ const socialMediaLinksIcons = socialMediaLinks.map(item =>
     <a href={item.href} target="_blank" rel="noopener noreferrer" onClick={(event)=>  { event.preventDefault(); window.open(socialMediaLinks.href)}} key={item.id}><p>{item.icon}</p></a>);
 
 
-
-
-
 export default function Footer() {
 
  return (
