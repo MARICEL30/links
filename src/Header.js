@@ -15,7 +15,7 @@ export default function Header() {
 
 
    const listItems = myLinks.map(item => 
-        <a href={item.link}  target="_blank" rel="noopener noreferrer" onClick={(event) => {event.preventDefault(); window.open(myLinks.link)}}><li  className="list" key={item.id}> {item.name} </li> </a>
+        <a href={item.link}  target="_blank" rel="noopener noreferrer" onClick={(event) => window.open(myLinks.link)}><li  className="list" key={item.id}> {item.name} </li> </a>
       
    );
 
