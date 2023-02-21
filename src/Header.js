@@ -10,6 +10,7 @@ export default function Header() {
       { name: "Website", link: "https://mariceldragan.com/", id: 1 },
       { name: "Articles", link: "https://medium.com/@mariaceliadragan", id: 2 },
       { name: "Projects", link: "https://github.com/MARICEL30", id: 3 },
+      { name: "Experiments", link: "https://plasticfreeme.net/", id: 4 },
 ]
 
 

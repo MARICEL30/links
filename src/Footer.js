@@ -24,9 +24,9 @@ const socialMediaLinksIcons = socialMediaLinks.map(item =>
 export default function Footer() {
 
  return (
-  <div className="social-icons">
-  <p>{socialMediaLinksIcons}</p>
-  </div>
+  <ul className="social-icons">
+  <li>{socialMediaLinksIcons}</li>
+  </ul>
  )};
 
 
