@@ -6,6 +6,14 @@ The background is also changeable. There is the option to change the background 
 
 The social media links are on the Footer component.
 
+
+
+
+![Links-iPad-Air](https://user-images.githubusercontent.com/42100507/221054575-0c66f037-7374-4c8b-a018-d11783fdaf1b.jpg)
+
+
+
+
 # Getting Started with Links
 
 Feel free to clone or fork this repository. You can customize everything.
