@@ -14,6 +14,7 @@ Clone or fork this repository on your local machine. Once you have the file on y
 
  <title>maricel-links</title>
 
+&nbsp;
 
 You can also change the icons which are located on the same folder. Make sure to keep the name of the icons as these need to match the manifest.json file.
 
@@ -21,9 +22,6 @@ You can also change the icons which are located on the same folder. Make sure to
 
 On the header component change the name and links on myLinks array to whatever you would like to use.
 
-const myLinks = [
-      { name: "Website", link: "https://mariceldragan.com/", id: 1 },
-      { name: "Articles", link: "https://medium.com/@mariaceliadragan", id: 2 },
-      { name: "Projects", link: "https://github.com/MARICEL30", id: 3 },
-      { name: "Experiments", link: "https://plasticfreeme.net/", id: 4 },
-]
+# Adding Social Media LInks
+
+The social media links are in the Footer component.
