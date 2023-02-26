@@ -16,7 +16,10 @@ You can also change the icons which are located on the same folder. Make sure to
 
 # Adding Links to the Project
 
-On the header component change the name and links on myLinks array to whatever you would like to use.
+On the Header component change the name value and links value on myLinks array to whatever you would like to use. These are the main links on the site. You can also change the h2 tag to your name and change the portrait pic on the images folder.
+
+![Header-links](https://user-images.githubusercontent.com/42100507/221438852-bc87871c-faed-4c3c-a054-f47d5d434731.jpg)
+
 
 # Adding Social Media LInks
 
