@@ -10,11 +10,7 @@ The social media links are on the Footer component.
 
 # Getting Started with Links
 
-Clone or fork this repository on your local machine. Once you have the file on your local machine change the title tag on the index.html file that's located on the public folder.
-
- <title>maricel-links</title>
-
-&nbsp;
+Clone or fork this repository on your local machine. Once you have the file on your local machine you can change the title tag on the index.html file that's located on the public folder.
 
 You can also change the icons which are located on the same folder. Make sure to keep the name of the icons as these need to match the manifest.json file.
 
