@@ -10,4 +10,20 @@ The social media links are on the Footer component.
 
 # Getting Started with Links
 
-Clone or fork this repository on your local machine.
+Clone or fork this repository on your local machine. Once you have the file on your local machine change the title tag on the index.html file that's located on the public folder.
+
+ <title>maricel-links</title>
+
+
+You can also change the icons which are located on the same folder. Make sure to keep the name of the icons as these need to match the manifest.json file.
+
+# Adding Links to the Project
+
+On the header component change the name and links on myLinks array to whatever you would like to use.
+
+const myLinks = [
+      { name: "Website", link: "https://mariceldragan.com/", id: 1 },
+      { name: "Articles", link: "https://medium.com/@mariaceliadragan", id: 2 },
+      { name: "Projects", link: "https://github.com/MARICEL30", id: 3 },
+      { name: "Experiments", link: "https://plasticfreeme.net/", id: 4 },
+]
