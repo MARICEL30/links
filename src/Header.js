@@ -7,10 +7,10 @@ import './App.js';
 export default function Header() {
   
   const myLinks = [
-      { name: "Website", link: "https://mariceldragan.com/", id: 1 },
-      { name: "Articles", link: "https://medium.com/@mariaceliadragan", id: 2 },
-      { name: "Projects", link: "https://github.com/MARICEL30", id: 3 },
-      { name: "Experiments", link: "https://plasticfreeme.net/", id: 4 },
+      { id: 1, name: "Website", link: "https://mariceldragan.com/" },
+      { id: 2, name: "Articles", link: "https://medium.com/@mariaceliadragan" },
+      { id: 3, name: "Projects", link: "https://github.com/MARICEL30" },
+      { id: 4, name: "Experiments", link: "https://plasticfreeme.net/" },
 ]
 
 
