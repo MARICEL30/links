@@ -20,7 +20,8 @@ You can also change the icons which are located on the same folder. Make sure to
 
 On the Header component change the name value and links value on myLinks array to whatever you would like to use. These are the main links on the site. You can also change the h2 tag to your name and change the portrait pic on the images folder.
 
-![Header-links](https://user-images.githubusercontent.com/42100507/221692641-882d2f33-4171-4bd6-a5ec-d8ce6aa7f6f1.jpg)
+![Header-links](https://user-images.githubusercontent.com/42100507/221696587-b3787a2a-cdbb-493d-92eb-dd0dadafbd5d.jpg)
+
 # Adding Social Media LInks
 
-The social media links are in the Footer component.
+The social media links are in the Footer component. You can update the const socialMediaLinks with whatever icon value and href value you would like to use. Name a variable for any social media icon in camel case ( e.g., const twitterIcon ) and assign the FontAwesomeIcon component value to it. Then add the relevant props for your icon.
