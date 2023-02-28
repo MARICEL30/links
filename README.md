@@ -35,3 +35,8 @@ On the Header component change the name value and link value on myLinks array to
 # Adding Social Media LInks
 
 The social media links are in the Footer component. You can update the const socialMediaLinks with whatever icon value and href value you would like to use. Name a variable for any social media icon in camel case ( e.g., const twitterIcon ) and assign the FontAwesomeIcon component value to it. Then add the relevant props for your icon.
+
+```const twitterIcon = <FontAwesomeIcon icon={faTwitter} size="2x" color='#fff'/>```
+
+
+The faTwitter is part of the fontawesome icon library. You can change it to any other brand icon.
