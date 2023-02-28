@@ -10,15 +10,15 @@ const mediumIcon = <FontAwesomeIcon icon={faMedium} size="2x" color='#fff'/>
 const twitterIcon = <FontAwesomeIcon icon={faTwitter} size="2x" color='#fff'/>
 
 const socialMediaLinks = [
-    { id: 1, icon: instagramIcon, href: "https://www.instagram.com/maricel_weblab/"},
-    { id: 2, icon: githubIcon, href: "https://github.com/MARICEL30" },
-    { id: 3, icon: mediumIcon, href: "https://medium.com/@mariaceliadragan" },
-    { id: 4, icon: twitterIcon, href: "https://twitter.com/weblab_maricel" },
+    { id: 1, icon: instagramIcon, link: "https://www.instagram.com/maricel_weblab/"},
+    { id: 2, icon: githubIcon, link: "https://github.com/MARICEL30" },
+    { id: 3, icon: mediumIcon, link: "https://medium.com/@mariaceliadragan" },
+    { id: 4, icon: twitterIcon, link: "https://twitter.com/weblab_maricel" },
 
     ]
 
 const socialMediaLinksIcons = socialMediaLinks.map(item =>
-    <a href={item.href} target="_blank" rel="noopener noreferrer" key={item.id}><p>{item.icon}</p></a>);
+    <a href={item.link} target="_blank" rel="noopener noreferrer" key={item.id}><p>{item.icon}</p></a>);
 
     
 export default function Footer() {
