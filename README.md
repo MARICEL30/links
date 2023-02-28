@@ -12,13 +12,23 @@ The social media links are on the Footer component.
 
 # Getting Started with Links
 
-Clone or fork this repository on your local machine. Once you have the file on your local machine you can change the title tag on the index.html file that's located on the public folder.
+Clone or fork this repository on your local machine. Once you have the files on your local machine you can change the title tag on the index.html file that's located on the public folder.
 
-You can also change the icons which are located on the same folder. Make sure to keep the name of the icons as these need to match the manifest.json file.
+You can also change the icons which are located on the same folder. Make sure to keep the name of the icons as these need to match the manifest.json file. To clone this repository run:
+
+```git clone https://github.com/MARICEL30/links.git```
+
+Then you'll need to check that the scripts are on the package.json file. After checking that remove the node modules and the package-lock.json file. Now install npm:
+
+```npm install```
+
+You can use yarn if you prefer. Now it's time to check if everything is working fine by running
+
+```npm start```
 
 # Adding Links to the Project
 
-On the Header component change the name value and links value on myLinks array to whatever you would like to use. These are the main links on the site. You can also change the h2 tag to your name and change the portrait pic on the images folder.
+On the Header component change the name value and link value on myLinks array to whatever you would like to use. These are the main links on the site. You can also change the h2 tag to your name and change the portrait pic on the images folder.
 
 ![Header-links](https://user-images.githubusercontent.com/42100507/221696587-b3787a2a-cdbb-493d-92eb-dd0dadafbd5d.jpg)
 
