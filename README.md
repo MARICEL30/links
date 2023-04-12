@@ -8,7 +8,8 @@ The social media links are on the Footer component.
 &nbsp;
 
 
-![Links-iPad-Air](https://user-images.githubusercontent.com/42100507/221054575-0c66f037-7374-4c8b-a018-d11783fdaf1b.jpg)
+![Screenshot-links](https://user-images.githubusercontent.com/42100507/231400861-aea88837-2bb1-4ab5-9fcf-a4807ef9bbe1.jpg)
+
 
 # Getting Started with Links
 
