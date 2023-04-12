@@ -7,8 +7,9 @@ The background is also changeable. There is the option to change the background 
 The social media links are on the Footer component.
 &nbsp;
 
+![screenshot-links2](https://user-images.githubusercontent.com/42100507/231402436-6ad0d052-9970-4508-8559-d9afc72666f3.jpg)
 
-![Screenshot-links](https://user-images.githubusercontent.com/42100507/231400861-aea88837-2bb1-4ab5-9fcf-a4807ef9bbe1.jpg)
+
 
 
 # Getting Started with Links
