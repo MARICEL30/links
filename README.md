@@ -32,7 +32,8 @@ You can use yarn if you prefer. Now it's time to check if everything is working 
 
 On the Header component change the name value and link value on myLinks array to whatever you would like to use. These are the main links on the site. You can also change the h2 tag to your name and change the portrait pic on the images folder.
 
-![Header-links](https://user-images.githubusercontent.com/42100507/221696587-b3787a2a-cdbb-493d-92eb-dd0dadafbd5d.jpg)
+![my-links-array](https://github.com/MARICEL30/links/assets/42100507/add44fc3-2884-40a3-99e1-562661cbcbde)
+
 
 # Adding Social Media LInks
 
